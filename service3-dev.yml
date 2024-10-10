@@ -1,0 +1,5 @@
+server:
+  user: dudwls4251@gmail.com
+  port: 8083
+  service:
+    context-path: /service3
