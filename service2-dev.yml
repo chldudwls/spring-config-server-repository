@@ -1,5 +1,5 @@
 server:
-  user: dudwls4251@gmail.com
+  user: didwls4251@gmail.com
   port: 8082
   service:
     context-path: /service2
